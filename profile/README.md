@@ -1,4 +1,4 @@
-<h1>Welcome!🎉</h1>
+<h1>Welcome!⚙</h1>
 <hr>
 <p>Welcome to FRC Team 3196's Github Library!</p>
 
